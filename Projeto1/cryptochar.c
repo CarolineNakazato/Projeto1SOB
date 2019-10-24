@@ -1,3 +1,11 @@
+//NOME:							| RA:
+//Breno Baldovinotti 			| 14315311
+//Caroline Gerbaudo Nakazato 	| 17164260
+//Marco Antônio de Nadai Filho 	| 16245961
+//Nícolas Leonardo Külzer Kupka | 16104325
+//Paulo Mangabeira Birocchi 	| 16148363
+//------------------------------------------
+
 #include <linux/init.h>             // Macros used to mark up functions e.g. __init __exit
 #include <crypto/internal/skcipher.h>
 #include <crypto/internal/hash.h> 
